@@ -67,3 +67,29 @@ Database Architecture (MongoDB)
 ●	Relationship:
 
  Many Transactions belong to One User
+
+ 
+Roles and Responsibilities
+
+Student / Developer:
+
+●	Write backend code
+
+●	Create APIs
+
+●	Test APIs using Postman/Thunder Client
+
+●	Push code to GitHub
+
+
+System (Backend):
+
+●	Authenticate users using JWT
+
+●	Handle CRUD operations
+
+●	Store and fetch data from MongoDB
+
+●	Protect private routes
+
+
